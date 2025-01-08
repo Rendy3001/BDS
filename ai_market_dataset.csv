@@ -1,0 +1,8 @@
+Entity A,Relation,Entity B,Source,Date
+OpenAI,Develops,GPT-4,NewsAPI,2024-01-01
+Google DeepMind,Partners with,Alphabet,Crunchbase,2024-01-02
+NVIDIA,Provides,AI GPUs,Corporate Report,2023-12-25
+Microsoft,Invests in,OpenAI,Tech Blog,2023-12-10
+Hugging Face,Open Sources,Transformers Library,GitHub,2023-12-15
+Anthropic,Focuses on,Ethical AI,Research Paper,2023-12-20
+Meta AI,Collaborates with,PyTorch,Industry News,2024-01-05
